@@ -10,7 +10,7 @@ Each table is linked through **foreign keys** and maintains referential integrit
 
 
 
-##  Concept Overview
+#  Concept Overview
 
 - **Class → Family → Genus → Species** – hierarchical plant classification  
 - **Images** – stores image paths for each plant species  
@@ -22,7 +22,7 @@ This structure enables users to browse plant data, view images, leave comments, 
 
 
 
-## Technical Highlights
+# Technical Highlights
 
 - Implemented with **MySQL**  
 - Uses **primary** and **foreign keys** for relationships  
@@ -33,7 +33,7 @@ This structure enables users to browse plant data, view images, leave comments, 
 - Ensures data consistency with `ON DELETE CASCADE` constraints  
 
 
-## Educational Purpose
+# Educational Purpose
 
 This project demonstrates fundamental **database design principles**, including:
 - **Entity–Relationship modeling (ER diagram)**
